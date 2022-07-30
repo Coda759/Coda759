@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Coda759
+- 👋 Hi, I’m Coda
 - 👀 I’m interested in creating projects of various nature
 - 🌱 I’m currently learning full stack development so I can build and deploy some web apps
 - 💞️ I’m looking to collaborate on anything. Any project you want a collaborator on I am willing to help
